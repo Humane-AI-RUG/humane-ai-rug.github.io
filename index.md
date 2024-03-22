@@ -1,5 +1,5 @@
 ---
-title: Humane AI Repository
+title: Welcome to the Humane AI Repository!
 ---
 
 This Markdown-backed knowledge graph aims to gather information related to academic and industry activity around human(e) AI.
