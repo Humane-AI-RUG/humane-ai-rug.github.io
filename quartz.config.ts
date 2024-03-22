@@ -11,16 +11,14 @@ const config: QuartzConfig = {
     pageTitle: "Humane AI Repository",
     enableSPA: false,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    baseUrl: "humane-ai-rug.github.io",
+    baseUrl: "darwinkel.github.io/test-humane-ai",
     ignorePatterns: ["private", "templates", ".obsidian", ".github", ".git"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
