@@ -1,0 +1,1 @@
+- Has a working group on AI. They are trying to draft what the AI priorities are in the country, and how they should be devolved to the research universities.
