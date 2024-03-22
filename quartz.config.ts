@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "humane-ai-rug.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian", ".github"],
+    ignorePatterns: ["private", "templates", ".obsidian", ".github", ".git"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/humane-ai-rug.github.io",
+      "Contribute to the Humane AI Repository at GitHub": "https://github.com/humane-ai-rug.github.io",
     },
   }),
 }

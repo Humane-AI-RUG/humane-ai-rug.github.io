@@ -18,17 +18,17 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Fetch all history for git info
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: 18.14
 
-      - name: Clone quartz
+      - name: Clone quartz (v4 branch)
         run: |
           cd ..
-          git clone https://github.com/jackyzha0/quartz.git
+          git clone --depth 1 https://github.com/jackyzha0/quartz.git -b v4
 
       - name: Copy vault content Quartz
         run: cp -R ./* ../quartz/content
@@ -36,7 +36,6 @@ jobs:
       - name: Copy quartz config to the quartz folder
         run: cp quartz.config.ts quartz.layout.ts ../quartz
 
-        
       - name: Install Dependencies
         run: |
           cd ../quartz
@@ -48,7 +47,7 @@ jobs:
           npx quartz build
         
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ../quartz/public
  
@@ -61,4 +60,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
