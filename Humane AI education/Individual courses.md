@@ -1,1 +1,5 @@
-#Education
+---
+tags:
+  - Education
+---
+
