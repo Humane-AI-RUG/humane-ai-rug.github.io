@@ -28,6 +28,9 @@ jobs:
       - name: Go to parent directory
         run: cd ..
 
+      - name: Debug
+        run: ls -lah
+
       - name: Clone quartz
         run: git clone https://github.com/jackyzha0/quartz.git
 
