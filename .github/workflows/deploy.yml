@@ -32,10 +32,10 @@ jobs:
         run: git clone https://github.com/jackyzha0/quartz.git
 
       - name: Copy vault content Quartz
-        run: cp -R $GITHUB_WORKSPACE/* quartz/content
+        run: cp -R ${{ github.event.repository.name }}/* quartz/content
 
       - name: Copy quartz config to the quartz folder
-        run: cp $GITHUB_WORKSPACE/quartz.config.ts $GITHUB_WORKSPACE/quartz.layout.ts quartz
+        run: cp ${{ github.event.repository.name }}/quartz.config.ts $GITHUB_WORKSPACE/quartz.layout.ts quartz
         
       - name: Go into quartz directory
         run: cd quartz
