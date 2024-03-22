@@ -21,6 +21,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Fetch all history for git info
+      - uses: chetan/git-restore-mtime-action@v2 # Restore modified time from git to files
+
       - uses: actions/setup-node@v4
         with:
           node-version: 18.14
@@ -31,7 +33,7 @@ jobs:
           git clone --depth 1 https://github.com/jackyzha0/quartz.git -b v4
 
       - name: Copy vault content Quartz
-        run: cp -R ./* ../quartz/content
+        run: cp -p -R ./* ../quartz/content # Preserve timestamps
 
       - name: Copy quartz config to the quartz folder
         run: cp quartz.config.ts quartz.layout.ts ../quartz
