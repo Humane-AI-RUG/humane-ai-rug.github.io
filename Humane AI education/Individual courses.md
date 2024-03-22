@@ -15,4 +15,4 @@ tags:
 | [Governance and Regulation of Innovation II: Responsibility](https://ocasys.rug.nl/current/catalog/course/CFBDS10A05) | BSc Data Science and Society | |
 | [Ethics of AI](https://ocasys.rug.nl/current/catalog/course/FI233HV) | Ba Philosophy | [[dr. Herman Veluwenkamp]] |
 | [CI: Ethics and Epistemology of AI](https://ocasys.rug.nl/current/catalog/course/FI2341CI1) | ReMa Philosophy | |
-| [Topics in AI](https://ocasys.rug.nl/current/catalog/course/WMAI025-05) | MSc Artificial Intelligence | [[prof. dr. Bart Verheij]] and [[Cor Steging, MSc]] |
+| [Topics in AI](https://ocasys.rug.nl/current/catalog/course/WMAI025-05) | MSc Artificial Intelligence | [[prof. dr. Bart Verheij]] and [[Cor Steging MSc]] |
