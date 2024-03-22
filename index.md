@@ -1,3 +1,7 @@
+---
+title: Humane AI Repository
+---
+
 This Markdown-backed knowledge graph aims to gather information related to academic and industry activity around human(e) AI.
 
 A good place to start is [[Delegation of Subtheme Responsibilities]].
