@@ -48,6 +48,9 @@ jobs:
           cd ../quartz
           npx quartz build
         
+      - name: DEBUG timestamps
+        run: ls -lah ../quartz/content 
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
