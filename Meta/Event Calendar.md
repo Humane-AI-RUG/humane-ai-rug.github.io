@@ -4,7 +4,9 @@ tags:
   - Events
 ---
 
-Also see the [calendar](https://www.rug.nl/jantina-tammes-school/calendar/) of the [[Jantina Tammes School of Digital Society, Technology and AI]].
+
+- [Calendar](https://www.rug.nl/jantina-tammes-school/calendar/) of the [[Jantina Tammes School of Digital Society, Technology and AI]].
+- [Events](https://www.aisig.org/get-involved) of the [[AI Safety Initiative Groningen]].
 
 # 2023
 ## March
