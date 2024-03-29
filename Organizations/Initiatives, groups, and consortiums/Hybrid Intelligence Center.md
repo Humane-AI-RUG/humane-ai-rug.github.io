@@ -2,7 +2,7 @@
 
 Cross-university initiative to to work on various aspects of AI. Major RUG/Bernoulli Institute contributions.
 
-Involved universities: [[Delft University of Technology]], [[University of Twente]], [[University of Amsterdam]], [[Eindhoven University of Technology]], [[Leiden University]], [[University of Groningen]], [[Vrije Universiteit Amsterdam]], [[Utrecht University]] 
+Involved universities: [[Delft University of Technology]], [[University of Twente]], [[University of Amsterdam]], [[Eindhoven University of Technology]], [[Leiden University]], [[University of Groningen]], [[Vrije Universiteit Amsterdam]], [[Utrecht University]].
 [[TNO]] is also involved.
 
 ### Notable participants

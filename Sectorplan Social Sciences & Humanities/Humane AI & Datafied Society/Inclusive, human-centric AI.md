@@ -1,1 +1,4 @@
-#InclusiveAI
+---
+tags:
+  - InclusiveAI 
+---
