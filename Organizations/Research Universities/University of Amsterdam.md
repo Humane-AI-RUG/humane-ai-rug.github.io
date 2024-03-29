@@ -1,1 +1,1 @@
-Research Priority Area Humane AI https://humane-ai.nl |
+[Research Priority Area Humane AI](https://humane-ai.nl)
