@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "darwinkel.github.io/test-humane-ai",
+    baseUrl: "humane-ai-rug.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", ".github", ".git"],
     defaultDateType: "modified",
     theme: {
