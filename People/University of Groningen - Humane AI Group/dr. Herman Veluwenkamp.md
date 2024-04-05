@@ -1,3 +1,8 @@
+---
+tags:
+  - Ethics
+---
+
 Assistant Professor in Normative Ethics and the Digital Society at the Faculty of Philosophy. Member of the [[Humane AI Group RUG]] at the [[University of Groningen]].
 
 Research aims:

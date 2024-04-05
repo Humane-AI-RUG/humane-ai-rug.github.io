@@ -1,3 +1,8 @@
+---
+tags:
+  - LanguageTechnology
+---
+
 Assistant Professor in Computational Linguistics. Member of the [[Humane AI Group RUG]] at the [[University of Groningen]].
 
 Research aims:

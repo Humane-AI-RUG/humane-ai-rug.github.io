@@ -1,3 +1,8 @@
+---
+tags:
+  - Politics
+---
+
 Assistant Professor in International Relations and International Organization (IRIO). Member of the [[Humane AI Group RUG]] at the [[University of Groningen]].
 
 Research aims:

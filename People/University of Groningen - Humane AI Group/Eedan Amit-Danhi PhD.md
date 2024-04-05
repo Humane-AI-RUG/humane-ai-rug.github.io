@@ -1,3 +1,8 @@
+---
+tags:
+  - DigitalMedia
+---
+
 Postdoc researcher in the Centre for Media and Journalism Studies. Member of the [[Humane AI Group RUG]] at the [[University of Groningen]].
 
 Research aims:
