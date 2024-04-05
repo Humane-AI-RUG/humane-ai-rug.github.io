@@ -48,6 +48,9 @@ jobs:
           cd ../quartz
           npx quartz build
         
+      - name: Copy favicon to output
+        run: cp icon.png ../quartz/public/static/icon.png
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
