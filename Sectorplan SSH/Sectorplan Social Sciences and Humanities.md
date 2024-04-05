@@ -1,0 +1,1 @@
+See the [sectorplan SSH website](https://www.sectorplan-ssh.nl/) for information about what it constitutes. See the [[Delegation of Subtheme Responsibilities]] for information on who does what for the Humane AI subtheme.
