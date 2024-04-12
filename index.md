@@ -2,7 +2,7 @@
 title: Welcome to the Humane AI Repository!
 ---
 
-This Markdown-backed knowledge graph aims to gather information related to academic and industry activity around human(e) AI. This website and  the underlying GitHub repository is an initiative of the [[Humane AI Group RUG]].
+This Markdown-backed knowledge graph aims to gather information related to academic and industry activity around human(e) AI. This site and  the underlying GitHub repository is an initiative of the [[Humane AI Group RUG]].
 
 Fundamental to this initiative is the [[Sectorplan Social Sciences and Humanities]]. A good place to start is [[Delegation of Subtheme Responsibilities]].
 
