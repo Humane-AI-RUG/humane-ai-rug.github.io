@@ -1,2 +1,2 @@
-<https://www.aihub-noord.nl/bouwstenen/mensgerichte-ai/>
-They offer an ethics course <https://www.aihub-noord.nl/cursussen/ai-cursus-ai-en-ethiek/>
+- [Page describing humane AI is one of their foundations](https://www.aihub-noord.nl/bouwstenen/mensgerichte-ai/)
+- [They offer an ethics course as well](https://www.aihub-noord.nl/cursussen/ai-cursus-ai-en-ethiek/)
