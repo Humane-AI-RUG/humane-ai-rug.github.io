@@ -1,1 +1,1 @@
-Contact: https://research.rug.nl/en/persons/feline-lindeboom
+Contact: <https://research.rug.nl/en/persons/feline-lindeboom>

@@ -1,1 +1,1 @@
-Contact: https://www.rug.nl/staff/l.c.verbrugge/
+Contact: <https://www.rug.nl/staff/l.c.verbrugge/>

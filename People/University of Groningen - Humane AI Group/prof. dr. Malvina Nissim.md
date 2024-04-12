@@ -8,10 +8,10 @@ Professor in Computational Linguistics & Society. Coordinator [[Humane AI Group 
 
 Research aims:
 
-- Language Technology for Everyone    
+- Language Technology for Everyone
 - Enhance the role of society in  language technology development
 - Ethics and literacy in language technology
 - Help this field grow with and within the Humanities
 - Better understanding of language through technology
 
-Contact: https://www.rug.nl/staff/m.nissim/
+Contact: <https://www.rug.nl/staff/m.nissim/>

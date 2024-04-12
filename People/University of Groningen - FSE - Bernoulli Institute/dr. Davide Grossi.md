@@ -1,1 +1,1 @@
-Contact: https://www.rug.nl/staff/d.grossi/
+Contact: <https://www.rug.nl/staff/d.grossi/>

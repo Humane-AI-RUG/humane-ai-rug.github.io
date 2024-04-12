@@ -11,4 +11,3 @@ If you want to know how to share and deploy this repository, read [[Sharing and 
 If you are unfamiliar with GitHub but wish to contribute to this repository regardless, you can fill in [this Google Form](https://forms.gle/fxsqpTqjsyuQKzJZ8) and we will make the changes for you.
 
 Also see the [[Event Calendar]].
-

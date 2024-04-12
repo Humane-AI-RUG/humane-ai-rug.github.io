@@ -7,4 +7,4 @@ AI Ethics Lead at the Rijks ICT Gilde. Member of the Ethical Committe of Gemeent
 
 Related to the [[Algoritmeregister]].
 
-Contact: https://www.linkedin.com/in/willytadema
+Contact: <https://www.linkedin.com/in/willytadema>

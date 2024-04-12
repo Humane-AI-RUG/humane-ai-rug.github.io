@@ -1,4 +1,4 @@
- https://www.hybrid-intelligence-centre.nl/ 
+ <https://www.hybrid-intelligence-centre.nl/>
 
 Cross-university initiative to to work on various aspects of AI. Major RUG/Bernoulli Institute contributions.
 

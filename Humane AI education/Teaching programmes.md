@@ -3,7 +3,7 @@ tags:
   - Education
 ---
 
-The [[Nederlandse AI Coalitie]] has a repository containing AI-related programmes in the Netherlands in general at https://educatie.nlaic.com/. [It has a web interface as well](https://educatie.nlaic.com/opleidingen/ai-opleidingen-database/).
+The [[Nederlandse AI Coalitie]] has a repository containing AI-related programmes in the Netherlands in general at <https://educatie.nlaic.com/>. [It has a web interface as well](https://educatie.nlaic.com/opleidingen/ai-opleidingen-database/).
 
 [A report on the state of AI education in the Netherlands was published](https://educatie.nlaic.com/wp-content/uploads/sites/4/2022/01/NLA_Eindrapportage_v2.3.pdf). The [[University of Groningen]] was represented by [[prof. dr. Niels Taatgen]].
 
@@ -12,9 +12,11 @@ It does not appear that there is a formal (and accredited) program specifically 
 That said, most AI-related programmes have one or more courses related to ethics and society.
 
 ## University of Groningen (accredited WO programmes)
+
 The list of [[Individual courses]] contains an overview of courses directly related to Humane AI.
 
 ### Bachelor's degrees
+
 |  Programme   |  ECTS   | Faculty |
 | --- | --- | --- |
 |  [BSc Artificial Intelligence](https://www.rug.nl/bachelors/artificial-intelligence/) |  180   | Science & Engineering |
@@ -22,6 +24,7 @@ The list of [[Individual courses]] contains an overview of courses directly rela
 |  [BSc Data Science and Society](https://www.rug.nl/bachelors/data-science-and-society/) |  180   | Campus Fryslân |
 
 ### Master's degrees
+
 |  Programme   |  ECTS   | Faculty |
 | --- | --- | --- |
 |  [MSc Artificial Intelligence](https://www.rug.nl/masters/artificial-intelligence/) |  120   | Science & Engineering |
@@ -34,6 +37,7 @@ The list of [[Individual courses]] contains an overview of courses directly rela
 |  [MA Digital Humanities](https://www.rug.nl/masters/digital-humanities/) |  60   | Arts |
 
 ### Minors and other
+
 - [Minor Data Wise: Data Science in Society (30 ECTS)](https://www.rug.nl/gmw/education/minor/datawise)
 - [Faculty Minor Digital Humanities (30 ECTS)](https://ocasys.rug.nl/current/catalog/programme/MIN-DH)
 - [Faculty Minor Information Science (30 ECTS)](https://ocasys.rug.nl/current/catalog/programme/MIN-INFS)

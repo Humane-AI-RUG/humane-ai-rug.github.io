@@ -1,1 +1,1 @@
-Contact: https://www.rug.nl/staff/j.d.top/
+Contact: <https://www.rug.nl/staff/j.d.top/>
