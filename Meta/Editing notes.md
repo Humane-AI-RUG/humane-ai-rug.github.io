@@ -1,2 +1,3 @@
 - Only use alphanumeric characters in page titles / filenames. Otherwise, linking and rendering errors may occur.
 - Folders should always contain at least 1 Markdown file, otherwise breadcrumb navigation doesn't work.
+- Use [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) to automatically check and fix Markdown issues. You only need to run ``markdownlint --fix ./`` in the project folder. No further configuration is necessary.
