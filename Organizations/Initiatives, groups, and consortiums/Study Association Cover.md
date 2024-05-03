@@ -1,0 +1,1 @@
+[Homepage](https://svcover.nl/). Study association for Artificial Intelligence and Computing Science at the [[University of Groningen]].
